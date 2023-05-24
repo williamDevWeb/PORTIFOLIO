@@ -1,0 +1,20 @@
+[
+    {
+        "id_skils":1,
+        "name":"java script",
+        "level": 8,
+        "description": "Tenho uma lógica de programação ótima e uma base sólida e consolidada na linguagem java script. E não menos importante escrevo linhas de códigos fáceis de serem lidas e de fazer futuras manutenções na lógica, embora tenho muito que apreender com a linguagem JavaScript, eu tenho tudo que preciso para criar projetos do zero, com todas as melhores práticas utilizadas pelo mercado de trabalho."
+    },
+    {
+        "id_skils":1,
+        "name":"MySQL Server",
+        "level": 6,
+        "description": "Compreensão do modelo de banco de dados relacionais e digitações de query strings das mais utilizadas em consultas em DB. Também consigo elaborar novos bancos de dados e o implementar em meus projetos usando o sequelize."
+    },    
+    {
+        "id_skils":1,
+        "name":"API / API-REST",
+        "level": 8,
+        "description": "Criação de novas API com forme a necessidade, e consumo de API de terceiros. Utilizo principalmente o fetch-api para tratar das consultas. "
+    }
+]
